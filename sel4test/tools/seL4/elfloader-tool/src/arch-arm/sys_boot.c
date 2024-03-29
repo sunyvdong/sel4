@@ -221,6 +221,8 @@ void continue_boot(int was_relocated)
         printf("Jumping to kernel-image entry point...\n\n");
     }
 
+    printf("kernel_info.virt_entry:%x phys_region_start:%x phys_region_end:%x phys_virt_offset:%x virt_entry:%x dtb:%d dtb_size:%x\n",
+    kernel_info.virt_entry, user_info.phys_region_start, user_info.phys_region_end, user_info.phys_virt_offset, user_info.virt_entry, (word_t)dtb, dtb_size);
     ((init_arm_kernel_t)kernel_info.virt_entry)(user_info.phys_region_start,
                                                 user_info.phys_region_end,
                                                 user_info.phys_virt_offset,

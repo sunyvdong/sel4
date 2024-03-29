@@ -16,6 +16,7 @@ ELF-loading image 'sel4test-driver' to 4023f000
 Enabling MMU and paging
 Jumping to kernel-image entry point...
 
+kernel_info.virt_entry:40000000 phys_region_start:4023f000 phys_region_end:40646000 phys_virt_offset:3fe3f000 virt_entry:40e700 dtb:1076088832 dtb_size:1cf6
 Bootstrapping kernel
 Warning: Could not infer GIC interrupt target ID, assuming 0.
 available phys memory regions: 1
