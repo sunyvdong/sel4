@@ -1,0 +1,1 @@
+regen /home/syd/sel4/sel4test/build_aarch64/kernel/gen_headers/plat/machine/devices_gen.h /home/syd/sel4/sel4test/build_aarch64/kernel/kernel.dtb;/home/syd/sel4/sel4test/kernel/tools/hardware.yml;/home/syd/sel4/sel4test/kernel/tools/hardware_schema.yml;/home/syd/sel4/sel4test/kernel/tools/hardware_gen.py

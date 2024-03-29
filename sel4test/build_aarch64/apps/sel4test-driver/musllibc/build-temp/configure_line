@@ -1,0 +1,1 @@
+--srcdir=/home/syd/sel4/sel4test/projects/musllibc --prefix=/home/syd/sel4/sel4test/build_aarch64/apps/sel4test-driver/musllibc/build-temp/stage  --target=aarch64 --enable-warnings --disable-shared --enable-static

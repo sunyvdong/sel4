@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 5186da687debaab5c4a81ec351e56d145d88c79c Your Name <you@example.com> 1711714172 +0000	fetch --quiet --progress opensbi --prune --recurse-submodules=no --tags +refs/heads/*:refs/remotes/opensbi/* +refs/tags/v0.9:refs/tags/v0.9 +refs/tags/*:refs/tags/*: storing head

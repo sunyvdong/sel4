@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 9ff09115ff5a674b9b968b3e677d76bb46432b3d Your Name <you@example.com> 1711714164 +0000	fetch --quiet --progress seL4 --prune --recurse-submodules=no --tags +refs/heads/*:refs/remotes/seL4/* +refs/heads/master:refs/remotes/seL4/master +refs/tags/*:refs/tags/*: storing head

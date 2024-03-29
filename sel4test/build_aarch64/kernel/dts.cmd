@@ -1,0 +1,1 @@
+regen /home/syd/sel4/sel4test/build_aarch64/kernel/kernel.dtb /home/syd/sel4/sel4test/build_aarch64/qemu-arm-virt.dts;/home/syd/sel4/sel4test/kernel/src/plat/qemu-arm-virt/overlay-qemu-arm-virt.dts

@@ -1,0 +1,269 @@
+The target system is: Generic -  - seL4CPU
+The host system is: Linux - 5.4.0-174-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/aarch64-linux-gnu-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/aarch64-linux-gnu-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+aarch64-linux-gnu-gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_ee2dd && [1/2] Building C object CMakeFiles/cmTC_ee2dd.dir/testCCompiler.c.obj
+[2/2] Linking C static library libcmTC_ee2dd.a
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_c4a55 && [1/2] Building C object CMakeFiles/cmTC_c4a55.dir/CMakeCCompilerABI.c.obj
+Using built-in specs.
+COLLECT_GCC=/usr/bin/aarch64-linux-gnu-gcc
+Target: aarch64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libquadmath --disable-libquadmath-support --enable-plugin --enable-default-pie --with-system-zlib --without-target-system-zlib --enable-libpth-m2 --enable-multiarch --enable-fix-cortex-a53-843419 --disable-werror --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=aarch64-linux-gnu --program-prefix=aarch64-linux-gnu- --includedir=/usr/aarch64-linux-gnu/include
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj' '-mlittle-endian' '-mabi=lp64'
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/cc1 -quiet -v -imultiarch aarch64-linux-gnu -isysroot /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -o /tmp/ccHyiYnC.s
+GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/local/include/aarch64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc-cross/aarch64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include/aarch64-linux-gnu"
+ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/include
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include
+End of search list.
+GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 7c96b3e1825287ceb20c1cefbe546b91
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj' '-mlittle-endian' '-mabi=lp64'
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/as -v -EL -mabi=lp64 -o CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj /tmp/ccHyiYnC.s
+GNU assembler version 2.34 (aarch64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/
+LIBRARY_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj' '-mlittle-endian' '-mabi=lp64'
+[2/2] Linking C static library libcmTC_c4a55.a
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include]
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include]
+  end of search list found
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include] ==> [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include]
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include] ==> [/usr/aarch64-linux-gnu/include]
+  implicit include dirs: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include;/usr/aarch64-linux-gnu/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(aarch64-linux-gnu-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/ninja cmTC_c4a55 && [1/2] Building C object CMakeFiles/cmTC_c4a55.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/aarch64-linux-gnu-gcc]
+  ignore line: [Target: aarch64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libquadmath --disable-libquadmath-support --enable-plugin --enable-default-pie --with-system-zlib --without-target-system-zlib --enable-libpth-m2 --enable-multiarch --enable-fix-cortex-a53-843419 --disable-werror --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=aarch64-linux-gnu --program-prefix=aarch64-linux-gnu- --includedir=/usr/aarch64-linux-gnu/include]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/cc1 -quiet -v -imultiarch aarch64-linux-gnu -isysroot /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -o /tmp/ccHyiYnC.s]
+  ignore line: [GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/local/include/aarch64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc-cross/aarch64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include/aarch64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/include]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 7c96b3e1825287ceb20c1cefbe546b91]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/as -v -EL -mabi=lp64 -o CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj /tmp/ccHyiYnC.s]
+  ignore line: [GNU assembler version 2.34 (aarch64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_a716f.dir/CMakeCCompilerABI.c.obj' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [[2/2] Linking C static library libcmTC_c4a55.a]
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit dirs: []
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_2c764 && [1/2] Building CXX object CMakeFiles/cmTC_2c764.dir/testCXXCompiler.cxx.obj
+[2/2] Linking CXX static library libcmTC_2c764.a
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_6318d && [1/2] Building CXX object CMakeFiles/cmTC_6318d.dir/CMakeCXXCompilerABI.cpp.obj
+Using built-in specs.
+COLLECT_GCC=/usr/bin/aarch64-linux-gnu-g++
+Target: aarch64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libquadmath --disable-libquadmath-support --enable-plugin --enable-default-pie --with-system-zlib --without-target-system-zlib --enable-libpth-m2 --enable-multiarch --enable-fix-cortex-a53-843419 --disable-werror --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=aarch64-linux-gnu --program-prefix=aarch64-linux-gnu- --includedir=/usr/aarch64-linux-gnu/include
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64'
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/cc1plus -quiet -v -imultiarch aarch64-linux-gnu -isysroot /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp -D_GNU_SOURCE /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -o /tmp/ccLE4UWB.s
+GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/local/include/aarch64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc-cross/aarch64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include/aarch64-linux-gnu"
+ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/backward
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/include
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include
+End of search list.
+GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 3fd62e19f7cce4e05f266e2c8c4bf6f8
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64'
+ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/as -v -EL -mabi=lp64 -o CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj /tmp/ccLE4UWB.s
+GNU assembler version 2.34 (aarch64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/
+LIBRARY_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64'
+[2/2] Linking CXX static library libcmTC_6318d.a
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9]
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu]
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/backward]
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include]
+    add: [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include]
+  end of search list found
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9] ==> [/usr/aarch64-linux-gnu/include/c++/9]
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu] ==> [/usr/aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu]
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/backward] ==> [/usr/aarch64-linux-gnu/include/c++/9/backward]
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include] ==> [/usr/lib/gcc-cross/aarch64-linux-gnu/9/include]
+  collapse include dir [/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include] ==> [/usr/aarch64-linux-gnu/include]
+  implicit include dirs: [/usr/aarch64-linux-gnu/include/c++/9;/usr/aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu;/usr/aarch64-linux-gnu/include/c++/9/backward;/usr/lib/gcc-cross/aarch64-linux-gnu/9/include;/usr/aarch64-linux-gnu/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(aarch64-linux-gnu-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/ninja cmTC_6318d && [1/2] Building CXX object CMakeFiles/cmTC_6318d.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/aarch64-linux-gnu-g++]
+  ignore line: [Target: aarch64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libquadmath --disable-libquadmath-support --enable-plugin --enable-default-pie --with-system-zlib --without-target-system-zlib --enable-libpth-m2 --enable-multiarch --enable-fix-cortex-a53-843419 --disable-werror --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=aarch64-linux-gnu --program-prefix=aarch64-linux-gnu- --includedir=/usr/aarch64-linux-gnu/include]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/cc1plus -quiet -v -imultiarch aarch64-linux-gnu -isysroot /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp -D_GNU_SOURCE /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -o /tmp/ccLE4UWB.s]
+  ignore line: [GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/local/include/aarch64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc-cross/aarch64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include/aarch64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp/usr/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include/c++/9/backward]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/include]
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (aarch64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 3fd62e19f7cce4e05f266e2c8c4bf6f8]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ /usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/as -v -EL -mabi=lp64 -o CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj /tmp/ccLE4UWB.s]
+  ignore line: [GNU assembler version 2.34 (aarch64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc-cross/aarch64-linux-gnu/9/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc-cross/aarch64-linux-gnu/9/../../../../aarch64-linux-gnu/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_97122.dir/CMakeCXXCompilerABI.cpp.obj' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [[2/2] Linking CXX static library libcmTC_6318d.a]
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit dirs: []
+  implicit fwks: []
+
+
+Performing C SOURCE FILE Test compiler_arch_test succeeded with the following output:
+Change Dir: /home/syd/sel4/sel4test/build_aarch64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_fcd04 && [1/2] Building C object CMakeFiles/cmTC_fcd04.dir/src.c.obj
+[2/2] Linking C static library libcmTC_fcd04.a
+
+
+Source file was:
+
+#if defined(__aarch64__)
+    int main() {return 0;}
+#else
+#error Invalid arch
+#endif
+    
