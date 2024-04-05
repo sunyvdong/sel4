@@ -1,0 +1,1 @@
+--srcdir=/home/sunyvdong/sel4/sel4-tutorials-manifest/projects/musllibc --prefix=/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-world_build/musllibc/build-temp/stage  --target=arm --enable-warnings --disable-shared --enable-static

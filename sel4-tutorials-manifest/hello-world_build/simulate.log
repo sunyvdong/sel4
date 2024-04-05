@@ -1,0 +1,48 @@
+
+ELF-loader started on CPU: ARM Ltd. Cortex-A9 r3p0
+  paddr=[575000..6dc0c3]
+No DTB passed in from boot loader.
+Looking for DTB in CPIO archive...found at 679f3c.
+Loaded DTB from 679f3c.
+   paddr=[3c000..3efff]
+ELF-loading image 'kernel' to 0
+  paddr=[0..3bfff]
+  vaddr=[e0000000..e003bfff]
+  virt_entry=e0000000
+ELF-loading image 'hello-world' to 3f000
+  paddr=[3f000..178fff]
+  vaddr=[10000..149fff]
+  virt_entry=10218
+Enabling MMU and paging
+Bootstrapping kernel
+Warning: Could not infer GIC interrupt target ID, assuming 0.
+available phys memory regions: 1
+  [0..40000000]
+reserved virt address space regions: 4
+  [e0000000..e003c000]
+  [e003c000..e003ee47]
+  [e003f000..e0179000]
+  [ff000000..ff100000]
+Booting all finished, dropped to user space
+Hello, World!
+Caught cap fault in send phase at address 0
+while trying to handle:
+vm fault on code at address 0 with status 0x7
+in thread 0xffe0b200 "rootserver" at address 0
+With stack:
+0x43f48: 0x43f80
+0x43f4c: 0x0
+0x43f50: 0x43f6c
+0x43f54: 0x10330
+0x43f58: 0x43f88
+0x43f5c: 0x43f80
+0x43f60: 0x1
+0x43f64: 0x101e8
+0x43f68: 0x43ffc
+0x43f6c: 0x104ac
+0x43f70: 0x43f90
+0x43f74: 0x0
+0x43f78: 0x0
+0x43f7c: 0x14b000
+0x43f80: 0x27674
+0x43f84: 0x0
