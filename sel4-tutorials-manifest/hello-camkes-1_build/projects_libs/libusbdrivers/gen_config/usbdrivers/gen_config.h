@@ -1,0 +1,57 @@
+#pragma once
+
+#define CONFIG_ARM_HIKEY_OUTSTANDING_PREFETCHERS  0
+#define CONFIG_ARM_HIKEY_PREFETCHER_STRIDE  0
+#define CONFIG_ARM_HIKEY_PREFETCHER_NPFSTRM  0
+/* disabled: CONFIG_ARM_HIKEY_PREFETCHER_STBPFDIS */
+/* disabled: CONFIG_ARM_HIKEY_PREFETCHER_STBPFRS */
+/* disabled: CONFIG_PLAT_IMX7 */
+#define CONFIG_ARCH_AARCH32  1
+/* disabled: CONFIG_ARCH_AARCH64 */
+/* disabled: CONFIG_ARCH_ARM_HYP */
+/* disabled: CONFIG_ARCH_RISCV32 */
+/* disabled: CONFIG_ARCH_RISCV64 */
+/* disabled: CONFIG_ARCH_X86_64 */
+/* disabled: CONFIG_ARCH_IA32 */
+#define CONFIG_SEL4_ARCH  aarch32
+#define CONFIG_ARCH_ARM  1
+#define CONFIG_ARCH  arm
+#define CONFIG_WORD_SIZE  32
+#define CONFIG_ARM_PLAT  zynq7000
+#define CONFIG_MACH  zynq
+/* disabled: CONFIG_PLAT_ALLWINNERA20 */
+/* disabled: CONFIG_PLAT_AM335X */
+/* disabled: CONFIG_PLAT_APQ8064 */
+/* disabled: CONFIG_PLAT_BCM2711 */
+/* disabled: CONFIG_PLAT_BCM2837 */
+/* disabled: CONFIG_PLAT_EXYNOS4 */
+/* disabled: CONFIG_PLAT_EXYNOS5 */
+/* disabled: CONFIG_PLAT_HIKEY */
+/* disabled: CONFIG_PLAT_IMX6 */
+/* disabled: CONFIG_PLAT_IMX7_SABRE */
+/* disabled: CONFIG_PLAT_IMX8MQ_EVK */
+/* disabled: CONFIG_PLAT_IMX8MM_EVK */
+/* disabled: CONFIG_PLAT_MAAXBOARD */
+/* disabled: CONFIG_PLAT_OMAP3 */
+/* disabled: CONFIG_PLAT_QEMU_ARM_VIRT */
+/* disabled: CONFIG_PLAT_TK1 */
+/* disabled: CONFIG_PLAT_TQMA8XQP1GB */
+#define CONFIG_PLAT_ZYNQ7000  1
+/* disabled: CONFIG_PLAT_ZYNQMP */
+#define CONFIG_PLAT  zynq7000
+/* disabled: CONFIG_ARM_CORTEX_A7 */
+/* disabled: CONFIG_ARM_CORTEX_A8 */
+#define CONFIG_ARM_CORTEX_A9  1
+/* disabled: CONFIG_ARM_CORTEX_A15 */
+/* disabled: CONFIG_ARM_CORTEX_A35 */
+/* disabled: CONFIG_ARM_CORTEX_A53 */
+/* disabled: CONFIG_ARM_CORTEX_A55 */
+/* disabled: CONFIG_ARM_CORTEX_A57 */
+/* disabled: CONFIG_ARM_CORTEX_A72 */
+#define CONFIG_ARCH_ARM_V7A  1
+/* disabled: CONFIG_ARCH_ARM_V7VE */
+/* disabled: CONFIG_ARCH_ARM_V8A */
+/* disabled: CONFIG_AARCH64_SERROR_IGNORE */
+#define CONFIG_ARM_MACH  zynq
+#define CONFIG_LIB_SEL4_MUSLC_SYS_CONSTRUCTOR_PRIORITY  201
+#define CONFIG_LIB_USB  1

@@ -1,0 +1,8 @@
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/ipc.md
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/.tasks
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/client_1.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/client_2.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/server.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/CMakeLists.txt
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/.manifest.obj
+/home/sunyvdong/sel4/sel4-tutorials-manifest/ipc_build/.tutegen/ipc/gen/.allocator.obj

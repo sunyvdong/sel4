@@ -1,0 +1,7 @@
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/interrupts.md
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/.tasks
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/client.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/timer.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/CMakeLists.txt
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/.manifest.obj
+/home/sunyvdong/sel4/sel4-tutorials-manifest/interrupts_build/.tutegen/interrupts/gen/.allocator.obj

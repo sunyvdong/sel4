@@ -1,0 +1,7 @@
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/hello-camkes-1.md
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/.tasks
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/components/Echo/src/echo.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/components/Client/src/client.c
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/hello-1.camkes
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/interfaces/HelloSimple.idl4
+/home/sunyvdong/sel4/sel4-tutorials-manifest/hello-camkes-1_build/.tutegen/hello-camkes-1/gen/CMakeLists.txt

@@ -1,0 +1,13 @@
+/*
+ * CAmkES tutorial part 0: just a component.
+ */
+
+component Client {
+    control;
+}
+
+assembly {
+    composition {
+        component Client client;
+    }
+}
