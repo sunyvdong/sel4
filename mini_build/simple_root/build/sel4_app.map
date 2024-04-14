@@ -1,0 +1,1302 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+                              CMakeFiles/sel4_app.elf.dir/main.c.obj (__sel4_ipc_buffer)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+                              (_sel4_start)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj) (__sel4_start_root)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+                              CMakeFiles/sel4_app.elf.dir/main.c.obj (sel4runtime_bootinfo)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj) (__sel4runtime_run_constructors)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj) (__sel4runtime_memset)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj) (__sel4runtime_memcpy)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj) (sel4_vsyscall)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+                              CMakeFiles/sel4_app.elf.dir/main.c.obj (__aeabi_read_tp)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj) (__aeabi_read_tp_c)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj) (__sel4runtime_start_main)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+                              CMakeFiles/sel4_app.elf.dir/main.c.obj (__assert_fail)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o) (fflush)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o) (fprintf)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o) (__ofl_lock)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o) (stderr)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o) (vfprintf)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj) (memset)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj) (strcpy)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (strnlen)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o) (__lock)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o) (__wait)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (errno)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (strerror)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o) (abort)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o) (__sysinfo)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o) (__lctrans)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o) (__c_locale)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (frexpl)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (wctomb)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o) (__block_all_sigs)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o) (raise)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o) (__lockfile)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o) (__stdio_close)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o) (__stdio_seek)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o) (__stdio_write)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__fwritex)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memcpy_le.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o) (memcpy)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o) (memchr)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o) (__stpcpy)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o) (_Exit)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o) (__syscall_ret)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o) (frexp)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o) (wcrtomb)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o) (__towrite)
+/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o) (__stdio_exit_needed)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_muldf3.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_dmul)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivsi3.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o) (__aeabi_uidiv)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_addsubdf3.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_dsub)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_cmpdf2.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_dcmpeq)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixdfsi.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_d2iz)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixunsdfsi.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_d2uiz)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_ldivmod)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_uldivmod.o)
+                              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o) (__aeabi_uldivmod)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_dvmd_lnx.o)
+                              /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+                              /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+__hwcap             0x4               /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+__libc              0x40              /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+bootinfo            0x4               /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+__sysinfo           0x4               /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .rodata.seL4_AsyncEndpointObject
+                0x0000000000000000        0x4 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .note.GNU-stack
+                0x0000000000000000        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text          0x0000000000000000       0x54 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .rodata        0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ COMMON         0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .rodata        0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .rodata        0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+ .rodata        0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .data.__stderr_used
+                0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .text.__errno_location
+                0x0000000000000000       0x18 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .bss.__progname
+                0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .bss.__progname_full
+                0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .text.__lctrans_cur
+                0x0000000000000000       0x10 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .rodata.__c_dot_utf8
+                0x0000000000000000       0x1c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .rodata.__c_dot_utf8_locale
+                0x0000000000000000       0x18 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .rodata.empty_mo
+                0x0000000000000000       0x14 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .text.fwrite   0x0000000000000000       0x84 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memcpy_le.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memcpy_le.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memcpy_le.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+ .text.__towrite_needs_stdio_exit
+                0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+ .text          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .data          0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .bss           0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .text.close_file
+                0x0000000000000000       0x70 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .text.__stdio_exit
+                0x0000000000000000       0x48 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .bss.dummy_file
+                0x0000000000000000        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .comment       0x0000000000000000       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_muldf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_addsubdf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_cmpdf2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixdfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixunsdfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x0000000000000000       0xd4 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_uldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_dvmd_lnx.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_dvmd_lnx.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x10000))
+                0x00000000000100f4                . = (SEGMENT_START ("text-segment", 0x10000) + SIZEOF_HEADERS)
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+                0x00000000000100f4       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000100f4       0x24 linker stubs
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.dyn        0x0000000000010118        0x0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+                [!provide]                        PROVIDE (__rel_iplt_start = .)
+ *(.rel.iplt)
+ .rel.iplt      0x0000000000010118        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+                [!provide]                        PROVIDE (__rel_iplt_end = .)
+
+.rela.dyn       0x0000000000010118        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                [!provide]                        PROVIDE (__rela_iplt_start = .)
+ *(.rela.iplt)
+                [!provide]                        PROVIDE (__rela_iplt_end = .)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.iplt           0x0000000000010118        0x0
+ *(.iplt)
+ .iplt          0x0000000000010118        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+
+.text           0x0000000000010118     0x6004
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.seL4_CapRights_new
+                0x0000000000010118      0x128 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_MessageInfo_new
+                0x0000000000010240      0x128 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_MessageInfo_get_label
+                0x0000000000010368       0x30 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_MessageInfo_get_length
+                0x0000000000010398       0x30 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_GetIPCBuffer
+                0x00000000000103c8       0x24 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_SetMR
+                0x00000000000103ec       0x3c CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_SetCap
+                0x0000000000010428       0x38 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.arm_sys_send_recv
+                0x0000000000010460       0xac CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_CallWithMRs
+                0x000000000001050c      0x1a4 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.seL4_CNode_Copy
+                0x00000000000106b0      0x110 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .text.main     0x00000000000107c0       0x70 CMakeFiles/sel4_app.elf.dir/main.c.obj
+                0x00000000000107c0                main
+ .text          0x0000000000010830       0x10 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+                0x0000000000010830                _sel4_start
+ .text          0x0000000000010840      0x17c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+                0x0000000000010840                __sel4_start_root
+ .text          0x00000000000109bc      0xeec /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+                0x0000000000010bc4                sel4runtime_process_name
+                0x0000000000010be8                sel4runtime_argv
+                0x0000000000010c0c                sel4runtime_argc
+                0x0000000000010c30                sel4runtime_envp
+                0x0000000000010c54                sel4runtime_auxv
+                0x0000000000010c78                sel4runtime_bootinfo
+                0x0000000000010c9c                sel4runtime_get_tls_size
+                0x0000000000010cc0                sel4runtime_initial_tls_enabled
+                0x0000000000010cf4                sel4runtime_write_tls_image
+                0x0000000000010d38                sel4runtime_move_initial_tls
+                0x0000000000010e40                sel4runtime_set_exit
+                0x0000000000010e84                sel4runtime_set_pre_exit
+                0x0000000000010ec8                sel4runtime_exit
+                0x0000000000010f28                __sel4runtime_write_tls_variable
+                0x0000000000010fe4                __sel4runtime_load_env
+ .text          0x00000000000118a8      0x140 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+                0x00000000000118a8                __sel4runtime_run_constructors
+                0x0000000000011974                __sel4runtime_run_destructors
+ .text          0x00000000000119e8      0x38c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+                0x00000000000119e8                __sel4runtime_memset
+ .text          0x0000000000011d74      0xa64 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+                0x0000000000011d74                __sel4runtime_memcpy
+ .text          0x00000000000127d8       0x24 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+                0x00000000000127d8                __sel4runtime_vsyscall
+                0x00000000000127d8                sel4_vsyscall
+ .text          0x00000000000127fc       0x10 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+                0x00000000000127fc                __aeabi_read_tp
+ .text          0x000000000001280c       0x58 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+                0x000000000001284c                __aeabi_read_tp_c
+ .text          0x0000000000012864       0x5c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+                0x0000000000012864                __sel4runtime_start_main
+ .text.__assert_fail
+                0x00000000000128c0       0x38 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+                0x00000000000128c0                __assert_fail
+ .text.fflush   0x00000000000128f8      0x128 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+                0x00000000000128f8                fflush
+                0x00000000000128f8                fflush_unlocked
+ .text.fprintf  0x0000000000012a20       0x28 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+                0x0000000000012a20                fprintf
+ .text.__ofl_lock
+                0x0000000000012a48       0x1c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+                0x0000000000012a48                __ofl_lock
+ .text.__ofl_unlock
+                0x0000000000012a64        0xc /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+                0x0000000000012a64                __ofl_unlock
+ .text.fmt_u    0x0000000000012a70       0x98 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text.getint   0x0000000000012b08       0x5c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text.out      0x0000000000012b64       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text.pop_arg  0x0000000000012b84      0x124 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text.pad      0x0000000000012ca8       0x88 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text.printf_core
+                0x0000000000012d30     0x1898 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .text.vfprintf
+                0x00000000000145c8      0x144 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+                0x00000000000145c8                vfprintf
+ .text.memset   0x000000000001470c       0xf4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+                0x000000000001470c                memset
+ .text.strcpy   0x0000000000014800       0x14 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+                0x0000000000014800                strcpy
+ .text.strnlen  0x0000000000014814       0x28 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+                0x0000000000014814                strnlen
+ .text.__lock   0x000000000001483c       0x5c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+                0x000000000001483c                __lock
+ .text.__unlock
+                0x0000000000014898       0x78 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+                0x0000000000014898                __unlock
+ .text.__wait   0x0000000000014910       0xfc /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+                0x0000000000014910                __wait
+ .text.__strerror_l
+                0x0000000000014a0c       0x54 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+                0x0000000000014a0c                strerror_l
+                0x0000000000014a0c                __strerror_l
+ .text.strerror
+                0x0000000000014a60        0xc /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+                0x0000000000014a60                strerror
+ .text.abort    0x0000000000014a6c       0x28 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+                0x0000000000014a6c                abort
+ .text.dummy    0x0000000000014a94        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+                0x0000000000014a94                __lctrans_impl
+ .text.__lctrans
+                0x0000000000014a98        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+                0x0000000000014a98                __lctrans
+ .text.frexpl   0x0000000000014a9c        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+                0x0000000000014a9c                frexpl
+ .text.wctomb   0x0000000000014aa0       0x10 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+                0x0000000000014aa0                wctomb
+ .text.__block_all_sigs
+                0x0000000000014ab0       0x38 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+                0x0000000000014ab0                __block_all_sigs
+ .text.__block_app_sigs
+                0x0000000000014ae8       0x38 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+                0x0000000000014ae8                __block_app_sigs
+ .text.__restore_sigs
+                0x0000000000014b20       0x34 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+                0x0000000000014b20                __restore_sigs
+ .text.raise    0x0000000000014b54       0x58 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+                0x0000000000014b54                raise
+ .text.__lockfile
+                0x0000000000014bac       0x6c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+                0x0000000000014bac                __lockfile
+ .text.__unlockfile
+                0x0000000000014c18       0x6c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+                0x0000000000014c18                __unlockfile
+ .text.dummy    0x0000000000014c84        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+                0x0000000000014c84                __aio_close
+ .text.__stdio_close
+                0x0000000000014c88       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+                0x0000000000014c88                __stdio_close
+ .text.__stdio_seek
+                0x0000000000014cb4       0x58 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+                0x0000000000014cb4                __stdio_seek
+ .text.__stdio_write
+                0x0000000000014d0c       0xf0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+                0x0000000000014d0c                __stdio_write
+ .text.__fwritex
+                0x0000000000014dfc       0xe0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+                0x0000000000014dfc                __fwritex
+ .text          0x0000000000014edc      0x2fc /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memcpy_le.o)
+                0x0000000000014edc                memcpy
+ .text.memchr   0x00000000000151d8       0xc0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+                0x00000000000151d8                memchr
+ .text.__stpcpy
+                0x0000000000015298       0x88 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+                0x0000000000015298                stpcpy
+                0x0000000000015298                __stpcpy
+ .text._Exit    0x0000000000015320       0x30 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+                0x0000000000015320                _Exit
+ .text.__syscall_ret
+                0x0000000000015350       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+                0x0000000000015350                __syscall_ret
+ .text.frexp    0x000000000001537c       0xa4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+                0x000000000001537c                frexp
+ .text.wcrtomb  0x0000000000015420      0x114 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+                0x0000000000015420                wcrtomb
+ .text.__towrite
+                0x0000000000015534       0x54 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+                0x0000000000015534                __towrite
+ .text          0x0000000000015588      0x26c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_muldf3.o)
+                0x0000000000015588                __aeabi_dmul
+                0x0000000000015588                __muldf3
+ .text          0x00000000000157f4      0x20c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivsi3.o)
+                0x00000000000157f4                __udivsi3
+                0x00000000000157f4                __aeabi_uidiv
+                0x00000000000159e0                __aeabi_uidivmod
+ .text          0x0000000000015a00      0x3c0 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_addsubdf3.o)
+                0x0000000000015a00                __aeabi_drsub
+                0x0000000000015a08                __aeabi_dsub
+                0x0000000000015a08                __subdf3
+                0x0000000000015a0c                __adddf3
+                0x0000000000015a0c                __aeabi_dadd
+                0x0000000000015cb8                __aeabi_ui2d
+                0x0000000000015cb8                __floatunsidf
+                0x0000000000015cdc                __floatsidf
+                0x0000000000015cdc                __aeabi_i2d
+                0x0000000000015d04                __extendsfdf2
+                0x0000000000015d04                __aeabi_f2d
+                0x0000000000015d4c                __aeabi_ul2d
+                0x0000000000015d4c                __floatundidf
+                0x0000000000015d60                __floatdidf
+                0x0000000000015d60                __aeabi_l2d
+ .text          0x0000000000015dc0      0x12c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000015dc0                __gtdf2
+                0x0000000000015dc0                __gedf2
+                0x0000000000015dc8                __ltdf2
+                0x0000000000015dc8                __ledf2
+                0x0000000000015dd0                __cmpdf2
+                0x0000000000015dd0                __eqdf2
+                0x0000000000015dd0                __nedf2
+                0x0000000000015e58                __aeabi_cdrcmple
+                0x0000000000015e74                __aeabi_cdcmple
+                0x0000000000015e74                __aeabi_cdcmpeq
+                0x0000000000015e88                __aeabi_dcmpeq
+                0x0000000000015e9c                __aeabi_dcmplt
+                0x0000000000015eb0                __aeabi_dcmple
+                0x0000000000015ec4                __aeabi_dcmpge
+                0x0000000000015ed8                __aeabi_dcmpgt
+ .text          0x0000000000015eec       0x5c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixdfsi.o)
+                0x0000000000015eec                __fixdfsi
+                0x0000000000015eec                __aeabi_d2iz
+ .text          0x0000000000015f48       0x54 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixunsdfsi.o)
+                0x0000000000015f48                __fixunsdfsi
+                0x0000000000015f48                __aeabi_d2uiz
+ .text          0x0000000000015f9c       0x3c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000015f9c                __aeabi_uldivmod
+ .text          0x0000000000015fd8       0x10 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_dvmd_lnx.o)
+                0x0000000000015fd8                __aeabi_ldiv0
+                0x0000000000015fd8                __aeabi_idiv0
+ .text          0x0000000000015fe8      0x134 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+                0x0000000000015fe8                __udivmoddi4
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x000000000001611c        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000000000001611c        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x000000000001611c        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x000000000001611c        0x0 linker stubs
+
+.fini
+ *(SORT_NONE(.fini))
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x000000000001611c      0xccc
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000000000001611c      0x2ba CMakeFiles/sel4_app.elf.dir/main.c.obj
+ *fill*         0x00000000000163d6        0x2 
+ .rodata.__func__.6484
+                0x00000000000163d8       0x13 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ *fill*         0x00000000000163eb        0x1 
+ .rodata.__func__.6575
+                0x00000000000163ec       0x15 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ *fill*         0x0000000000016401        0x3 
+ .rodata        0x0000000000016404       0x17 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .rodata.__assert_fail.str1.1
+                0x000000000001641b       0x23 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ *fill*         0x000000000001643e        0x2 
+ .rodata.stderr
+                0x0000000000016440        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+                0x0000000000016440                stderr
+ .rodata.printf_core.str1.1
+                0x0000000000016444       0x36 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .rodata.states
+                0x000000000001647a      0x1d0 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .rodata.xdigits
+                0x000000000001664a       0x10 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .rodata.errid  0x000000000001665a       0x58 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .rodata.errmsg
+                0x00000000000166b2      0x70c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ *fill*         0x0000000000016dbe        0x2 
+ .rodata.__c_locale
+                0x0000000000016dc0       0x18 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+                0x0000000000016dc0                __c_locale
+ .rodata.all_mask
+                0x0000000000016dd8        0x8 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .rodata.app_mask
+                0x0000000000016de0        0x8 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+LOAD CMakeFiles/sel4_app.elf.dir/main.c.obj
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libxnet.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libcrypt.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libpthread.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libresolv.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libm.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libdl.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/librt.a
+LOAD /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libutil.a
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a
+
+.tdata          0x0000000000016de8        0x0
+                0x0000000000016de8                _tdata_start = .
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+                0x0000000000016de8                _tdata_end = .
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss           0x0000000000016de8        0x8
+                0x0000000000016de8                _tbss_start = .
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ .tbss          0x0000000000016de8        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+                0x0000000000016de8                __sel4_ipc_buffer
+ .tbss.errno    0x0000000000016dec        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+                0x0000000000016dec                errno
+ *(.tcommon)
+                0x0000000000016df0                _tbss_end = .
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x0000000000016de8        0x8
+                [!provide]                        PROVIDE (__exidx_start = .)
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000016de8        0x8 /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+                [!provide]                        PROVIDE (__exidx_end = .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000017000                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.preinit_array  0x0000000000017000        0x0
+                0x0000000000017000                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000000017000                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000017000        0x0
+                0x0000000000017000                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                0x0000000000017000                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000017000        0x0
+                0x0000000000017000                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                0x0000000000017000                PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic
+ *(.dynamic)
+                0x0000000000017000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x0000000000017000        0x0
+ *(.got.plt)
+ *(.igot.plt)
+ .igot.plt      0x0000000000017000        0x0 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ *(.got)
+ *(.igot)
+
+.data           0x0000000000017000       0x90
+                [!provide]                        PROVIDE (__data_start = .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.f        0x0000000000017000       0x90 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+
+.data1
+ *(.data1)
+                0x0000000000017090                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000017090                . = .
+                0x0000000000017090                __bss_start = .
+                0x0000000000017090                __bss_start__ = .
+
+.bss            0x0000000000020000     0x80b0
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000020000     0x4000 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .bss           0x0000000000024000     0x4050 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .bss.dummy     0x0000000000028050        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+                0x0000000000028050                __stdout_used
+ .bss.ofl_head  0x0000000000028054        0x4 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .bss.ofl_lock  0x0000000000028058        0x8 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .bss.buf       0x0000000000028060        0x8 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ *(COMMON)
+ COMMON         0x0000000000028068       0x48 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+                0x0000000000028068                __hwcap
+                0x000000000002806c                __libc
+                0x00000000000280ac                __sysinfo
+                0x00000000000280b0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00000000000280b0                _bss_end__ = .
+                0x00000000000280b0                __bss_end__ = .
+                0x00000000000280b0                . = ALIGN (0x4)
+                0x00000000000280b0                . = SEGMENT_START ("ldata-segment", .)
+                0x00000000000280b0                . = ALIGN (0x4)
+                0x00000000000280b0                __end__ = .
+                0x00000000000280b0                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x00000000000280b0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b CMakeFiles/sel4_app.elf.dir/main.c.obj
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+ .comment       0x000000000000002b       0x2c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .ARM.attributes
+                0x000000000000002d       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .ARM.attributes
+                0x000000000000005a       0x1d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .ARM.attributes
+                0x0000000000000077       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .ARM.attributes
+                0x00000000000000a4       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .ARM.attributes
+                0x00000000000000d1       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .ARM.attributes
+                0x00000000000000fe       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .ARM.attributes
+                0x000000000000012b       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .ARM.attributes
+                0x0000000000000158       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .ARM.attributes
+                0x0000000000000185       0x1d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .ARM.attributes
+                0x00000000000001a2       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .ARM.attributes
+                0x00000000000001cf       0x2d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+ .ARM.attributes
+                0x00000000000001fc       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(assert.o)
+ .ARM.attributes
+                0x000000000000022b       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fflush.o)
+ .ARM.attributes
+                0x000000000000025a       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fprintf.o)
+ .ARM.attributes
+                0x0000000000000289       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(ofl.o)
+ .ARM.attributes
+                0x00000000000002b8       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stderr.o)
+ .ARM.attributes
+                0x00000000000002e7       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(vfprintf.o)
+ .ARM.attributes
+                0x0000000000000316       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memset.o)
+ .ARM.attributes
+                0x0000000000000345       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strcpy.o)
+ .ARM.attributes
+                0x0000000000000374       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strnlen.o)
+ .ARM.attributes
+                0x00000000000003a3       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lock.o)
+ .ARM.attributes
+                0x00000000000003d2       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__wait.o)
+ .ARM.attributes
+                0x0000000000000401       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__errno_location.o)
+ .ARM.attributes
+                0x0000000000000430       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(strerror.o)
+ .ARM.attributes
+                0x000000000000045f       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(abort.o)
+ .ARM.attributes
+                0x000000000000048e       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(libc.o)
+ .ARM.attributes
+                0x00000000000004bd       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lctrans.o)
+ .ARM.attributes
+                0x00000000000004ec       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(c_locale.o)
+ .ARM.attributes
+                0x000000000000051b       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexpl.o)
+ .ARM.attributes
+                0x000000000000054a       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wctomb.o)
+ .ARM.attributes
+                0x0000000000000579       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(block.o)
+ .ARM.attributes
+                0x00000000000005a8       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(raise.o)
+ .ARM.attributes
+                0x00000000000005d7       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__lockfile.o)
+ .ARM.attributes
+                0x0000000000000606       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_close.o)
+ .ARM.attributes
+                0x0000000000000635       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_seek.o)
+ .ARM.attributes
+                0x0000000000000664       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__stdio_write.o)
+ .ARM.attributes
+                0x0000000000000693       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(fwrite.o)
+ .ARM.attributes
+                0x00000000000006c2       0x1d /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memcpy_le.o)
+ .ARM.attributes
+                0x00000000000006df       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(memchr.o)
+ .ARM.attributes
+                0x000000000000070e       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(stpcpy.o)
+ .ARM.attributes
+                0x000000000000073d       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(_Exit.o)
+ .ARM.attributes
+                0x000000000000076c       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(syscall_ret.o)
+ .ARM.attributes
+                0x000000000000079b       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(frexp.o)
+ .ARM.attributes
+                0x00000000000007ca       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(wcrtomb.o)
+ .ARM.attributes
+                0x00000000000007f9       0x2f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/lib/libc.a(__towrite.o)
+ .ARM.attributes
+                0x0000000000000828       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000844       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000860       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000000000087c       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000898       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000008b4       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000000008d0       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000008ec       0x1c /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x0000000000000908       0x2a /usr/lib/gcc-cross/arm-linux-gnueabi/9/libgcc.a(_udivmoddi4.o)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x70 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .debug_aranges
+                0x0000000000000070       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .debug_aranges
+                0x0000000000000090       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .debug_aranges
+                0x00000000000000b0       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .debug_aranges
+                0x00000000000000d0       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .debug_aranges
+                0x00000000000000f0       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .debug_aranges
+                0x0000000000000110       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .debug_aranges
+                0x0000000000000130       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .debug_aranges
+                0x0000000000000150       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .debug_aranges
+                0x0000000000000170       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .debug_aranges
+                0x0000000000000190       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .debug_aranges
+                0x00000000000001b0       0x20 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x3136
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0xb2d CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .debug_info    0x0000000000000b2d      0x51c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .debug_info    0x0000000000001049       0x26 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .debug_info    0x000000000000106f      0x661 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .debug_info    0x00000000000016d0     0x1153 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .debug_info    0x0000000000002823      0x133 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .debug_info    0x0000000000002956      0x120 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .debug_info    0x0000000000002a76      0x13a /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .debug_info    0x0000000000002bb0       0x58 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .debug_info    0x0000000000002c08       0x26 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .debug_info    0x0000000000002c2e      0x233 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .debug_info    0x0000000000002e61      0x2d5 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+
+.debug_abbrev   0x0000000000000000      0xf78
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x27c CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .debug_abbrev  0x000000000000027c      0x19e /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .debug_abbrev  0x000000000000041a       0x14 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .debug_abbrev  0x000000000000042e      0x1a9 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .debug_abbrev  0x00000000000005d7      0x3f5 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .debug_abbrev  0x00000000000009cc       0xcb /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .debug_abbrev  0x0000000000000a97       0xa9 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .debug_abbrev  0x0000000000000b40       0xbc /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .debug_abbrev  0x0000000000000bfc       0x53 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .debug_abbrev  0x0000000000000c4f       0x14 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .debug_abbrev  0x0000000000000c63      0x17b /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .debug_abbrev  0x0000000000000dde      0x19a /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+
+.debug_line     0x0000000000000000     0x2339
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x578 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .debug_line    0x0000000000000578      0x25a /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .debug_line    0x00000000000007d2       0xa1 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+ .debug_line    0x0000000000000873      0x29a /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .debug_line    0x0000000000000b0d      0x8b5 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .debug_line    0x00000000000013c2      0x108 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .debug_line    0x00000000000014ca      0x22b /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .debug_line    0x00000000000016f5      0x6d6 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .debug_line    0x0000000000001dcb       0x91 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .debug_line    0x0000000000001e5c       0xa7 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+ .debug_line    0x0000000000001f03      0x278 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .debug_line    0x000000000000217b      0x1be /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+
+.debug_frame    0x0000000000000000      0x800
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x174 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .debug_frame   0x0000000000000174       0x50 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+ .debug_frame   0x00000000000001c4       0x30 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+ .debug_frame   0x00000000000001f4      0x46c /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+ .debug_frame   0x0000000000000660       0x50 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+ .debug_frame   0x00000000000006b0       0x40 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+ .debug_frame   0x00000000000006f0       0x34 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+ .debug_frame   0x0000000000000724       0x44 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+ .debug_frame   0x0000000000000768       0x68 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+ .debug_frame   0x00000000000007d0       0x30 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+
+.debug_str      0x0000000000000000     0x18d3
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xbb6 CMakeFiles/sel4_app.elf.dir/main.c.obj
+                                        0xc32 (size before relaxing)
+ .debug_str     0x0000000000000bb6      0x2a7 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/libsel4/libsel4.a(sel4_bootinfo.c.obj)
+                                        0x7b8 (size before relaxing)
+ .debug_str     0x0000000000000e5d       0x7b /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(sel4_crt0.S.obj)
+                                         0xc2 (size before relaxing)
+ .debug_str     0x0000000000000ed8      0x181 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start_root.c.obj)
+                                        0x77b (size before relaxing)
+ .debug_str     0x0000000000001059      0x482 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+                                       0x1045 (size before relaxing)
+ .debug_str     0x00000000000014db      0x130 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(init.c.obj)
+                                        0x251 (size before relaxing)
+ .debug_str     0x000000000000160b       0x6f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memset.c.obj)
+                                        0x233 (size before relaxing)
+ .debug_str     0x000000000000167a       0x6f /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(memcpy.c.obj)
+                                        0x248 (size before relaxing)
+ .debug_str     0x00000000000016e9       0x7a /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(vsyscall.c.obj)
+                                        0x195 (size before relaxing)
+ .debug_str     0x0000000000001763       0x75 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp.S.obj)
+                                         0xc8 (size before relaxing)
+ .debug_str     0x00000000000017d8       0x89 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(__aeabi_read_tp_c.c.obj)
+                                        0x3d5 (size before relaxing)
+ .debug_str     0x0000000000001861       0x72 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(start.c.obj)
+                                        0x3b7 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x78
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x60 CMakeFiles/sel4_app.elf.dir/main.c.obj
+ .debug_ranges  0x0000000000000060       0x18 /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/sel4runtime/libsel4runtime.a(env.c.obj)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(sel4_app.elf elf32-littlearm)
+LOAD linker stubs

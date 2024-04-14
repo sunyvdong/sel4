@@ -1,0 +1,1 @@
+regen /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/kernel/kernel.dtb /home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/kernel/tools/dts/zynq7000.dts;/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/kernel/src/plat/zynq7000/overlay-zynq7000.dts

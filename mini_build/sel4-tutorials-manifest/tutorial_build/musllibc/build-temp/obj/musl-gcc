@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "${REALGCC:-/usr/bin/arm-linux-gnueabi-gcc}" "$@" -specs "/home/sunyvdong/sel4/mini_build/sel4-tutorials-manifest/tutorial_build/musllibc/build-temp/stage/lib/musl-gcc.specs"

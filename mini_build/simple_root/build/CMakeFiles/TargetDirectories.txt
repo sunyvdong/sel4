@@ -1,0 +1,3 @@
+/home/sunyvdong/sel4/mini_build/simple_root/build/CMakeFiles/rebuild_cache.dir
+/home/sunyvdong/sel4/mini_build/simple_root/build/CMakeFiles/edit_cache.dir
+/home/sunyvdong/sel4/mini_build/simple_root/build/CMakeFiles/sel4_app.elf.dir
