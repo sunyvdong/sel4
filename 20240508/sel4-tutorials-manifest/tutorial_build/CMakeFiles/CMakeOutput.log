@@ -1,0 +1,153 @@
+The target system is: Generic -  - seL4CPU
+The host system is: Linux - 5.4.0-176-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/arm-linux-gnueabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-linux-gnueabi-gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_b7c0e && [1/2] Building C object CMakeFiles/cmTC_b7c0e.dir/testCCompiler.c.obj
+[2/2] Linking C static library libcmTC_b7c0e.a
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_c319d && [1/2] Building C object CMakeFiles/cmTC_c319d.dir/CMakeCCompilerABI.c.obj
+Using built-in specs.
+COLLECT_GCC=/usr/bin/arm-linux-gnueabi-gcc
+Target: arm-linux-gnueabi
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libitm --disable-libquadmath --disable-libquadmath-support --enable-plugin --with-system-zlib --without-target-system-zlib --enable-libpth-m2 --enable-multiarch --enable-multilib --disable-sjlj-exceptions --with-specs='%{mfloat-abi=hard:-march=armv7-a -mcpu=generic-armv7-a -mfloat-abi=hard}' --with-arch=armv5t --with-float=soft --disable-werror --enable-multilib --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=arm-linux-gnueabi --program-prefix=arm-linux-gnueabi- --includedir=/usr/arm-linux-gnueabi/include
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj'  '-mfloat-abi=soft' '-mtls-dialect=gnu' '-marm' '-march=armv5t'
+ /usr/lib/gcc-cross/arm-linux-gnueabi/9/cc1 -quiet -v -imultiarch arm-linux-gnueabi -isysroot /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mfloat-abi=soft -mtls-dialect=gnu -marm -march=armv5t -auxbase-strip CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccGFd9rK.s
+GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (arm-linux-gnueabi)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp/usr/local/include/arm-linux-gnueabi"
+ignoring nonexistent directory "/usr/lib/gcc-cross/arm-linux-gnueabi/9/include-fixed"
+ignoring nonexistent directory "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp/usr/include/arm-linux-gnueabi"
+ignoring nonexistent directory "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp/usr/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc-cross/arm-linux-gnueabi/9/include
+ /usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/include
+End of search list.
+GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (arm-linux-gnueabi)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: ffd40006e3c323a84acab04c6feb4fd1
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj'  '-mfloat-abi=soft' '-mtls-dialect=gnu' '-marm' '-march=armv5t'
+ /usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/bin/as -v -march=armv5t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj /tmp/ccGFd9rK.s
+GNU assembler version 2.34 (arm-linux-gnueabi) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/bin/
+LIBRARY_PATH=/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/lib/../lib/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/lib/
+COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj'  '-mfloat-abi=soft' '-mtls-dialect=gnu' '-marm' '-march=armv5t'
+[2/2] Linking C static library libcmTC_c319d.a
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib/gcc-cross/arm-linux-gnueabi/9/include]
+    add: [/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/include]
+  end of search list found
+  collapse include dir [/usr/lib/gcc-cross/arm-linux-gnueabi/9/include] ==> [/usr/lib/gcc-cross/arm-linux-gnueabi/9/include]
+  collapse include dir [/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/include] ==> [/usr/arm-linux-gnueabi/include]
+  implicit include dirs: [/usr/lib/gcc-cross/arm-linux-gnueabi/9/include;/usr/arm-linux-gnueabi/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(arm-linux-gnueabi-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/ninja cmTC_c319d && [1/2] Building C object CMakeFiles/cmTC_c319d.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/arm-linux-gnueabi-gcc]
+  ignore line: [Target: arm-linux-gnueabi]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libitm --disable-libquadmath --disable-libquadmath-support --enable-plugin --with-system-zlib --without-target-system-zlib --enable-libpth-m2 --enable-multiarch --enable-multilib --disable-sjlj-exceptions --with-specs='%{mfloat-abi=hard:-march=armv7-a -mcpu=generic-armv7-a -mfloat-abi=hard}' --with-arch=armv5t --with-float=soft --disable-werror --enable-multilib --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=arm-linux-gnueabi --program-prefix=arm-linux-gnueabi- --includedir=/usr/arm-linux-gnueabi/include]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj'  '-mfloat-abi=soft' '-mtls-dialect=gnu' '-marm' '-march=armv5t']
+  ignore line: [ /usr/lib/gcc-cross/arm-linux-gnueabi/9/cc1 -quiet -v -imultiarch arm-linux-gnueabi -isysroot /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mfloat-abi=soft -mtls-dialect=gnu -marm -march=armv5t -auxbase-strip CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccGFd9rK.s]
+  ignore line: [GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (arm-linux-gnueabi)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp/usr/local/include/arm-linux-gnueabi"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc-cross/arm-linux-gnueabi/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp/usr/include/arm-linux-gnueabi"]
+  ignore line: [ignoring nonexistent directory "/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp/usr/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/gcc-cross/arm-linux-gnueabi/9/include]
+  ignore line: [ /usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (arm-linux-gnueabi)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: ffd40006e3c323a84acab04c6feb4fd1]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj'  '-mfloat-abi=soft' '-mtls-dialect=gnu' '-marm' '-march=armv5t']
+  ignore line: [ /usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/bin/as -v -march=armv5t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj /tmp/ccGFd9rK.s]
+  ignore line: [GNU assembler version 2.34 (arm-linux-gnueabi) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/bin/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc-cross/arm-linux-gnueabi/9/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/lib/../lib/:/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-c' '-o' 'CMakeFiles/cmTC_cc569.dir/CMakeCCompilerABI.c.obj'  '-mfloat-abi=soft' '-mtls-dialect=gnu' '-marm' '-march=armv5t']
+  ignore line: [[2/2] Linking C static library libcmTC_c319d.a]
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit dirs: []
+  implicit fwks: []
+
+
+Performing C SOURCE FILE Test SOFTFP_FLOAT succeeded with the following compile output:
+Change Dir: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_6b543 && [1/2] Building C object CMakeFiles/cmTC_6b543.dir/src.c.obj
+[2/2] Linking C executable cmTC_6b543
+/usr/lib/gcc-cross/arm-linux-gnueabi/9/../../../../arm-linux-gnueabi/bin/ld: warning: cannot find entry symbol _start; defaulting to 00000000000100f8
+
+
+...and run output:
+
+Return value: 1
+Source file was:
+void main(void){}
+Performing C SOURCE FILE Test compiler_arch_test succeeded with the following output:
+Change Dir: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_049d0 && [1/2] Building C object CMakeFiles/cmTC_049d0.dir/src.c.obj
+[2/2] Linking C static library libcmTC_049d0.a
+
+
+Source file was:
+
+#if defined(__ARM_ARCH_7A__)
+    int main() {return 0;}
+#else
+#error Invalid arch
+#endif
+    

@@ -1,0 +1,36 @@
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/AST.hs:
+  hash: 74b706071bc434a5aa22f9e5486226538cce66ef6bd682604fce6995bfd8414d
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/DumpParser.hs:
+  hash: b1dedc3bc05650481f91424fb360354cca8de5f38e20fb90f76519ec2b071320
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/MakeModel.hs:
+  hash: 516758550128d9e0d69fe235d911c69808888d18e4f54ab73bb813442a08e18f
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/Matrix.hs:
+  hash: 0f3e8137440c5f850593a184de56a26bc20bbd0f5af3de4ac54926b0fb7397ba
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/Model.hs:
+  hash: cecb45aedccf9c1e739b18046d1229779de4b3d8e9e5ea8430bbbcc8e0c4f426
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/Parser.hs:
+  hash: 94858ac97167a7cf3af3711f72c9c37082b4ffbd50a340b5448e664423f587da
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/ParserUtils.hs:
+  hash: 8f5e011109fdb425816e74c2e69bfdb09a3e7a88b541c41498850755ba8e5719
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/PrintC.hs:
+  hash: ff642f5e5165c52dd5a254da2b7f2cbf8edb6c5f68d2057b7fce502c31988e60
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/PrintDot.hs:
+  hash: 73ad6725b5e1eb437e29c9237ddd7257f48967e2fe6f289bc1f67e8aaa3e6990
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/PrintIsabelle.hs:
+  hash: 868c8f140e1232be2d367e0f65fcf8d1b6c49fdc536f9e7710d4cd66c53bf05b
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/PrintModel.hs:
+  hash: a7f10fe31a4e29be7facb92df13a32baf9dbea36d65b64f82b0ac8f0bf153436
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/PrintUtils.hs:
+  hash: 860fbcbcc73601fea9189f8699443656219a767d21ce3214abfccfa73c2a228c
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/PrintXml.hs:
+  hash: cb03c898fc0dfeb8f541605712fc1f90913680c5084081b3c6af1398d7cc20c5
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/STCC.hs:
+  hash: 22080723397fb86119428690c6060d0c1e4af52a5b609e4dcdbcf33da2b67fff
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/CapDL/State.hs:
+  hash: 4fa33d405541029234f4d46fe6f8602d00d2f1a29bb59e9558c671f55410530b
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/Main.hs:
+  hash: 16b27b02d083ea57f91d3c2e2e883102ec78190675b2cf8b55a539b5e26944ea
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/README.md:
+  hash: e666bebbd06b9fb81bb4576842821a9d6b78ac2b7e5ee59544226015a0cacd8c
+/home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/capDL-tool/capDL-tool.cabal:
+  hash: a6acc2ae9bf678d58ed87137e60a06600c0015d7116f50ae44b4cab7c7d3023c
