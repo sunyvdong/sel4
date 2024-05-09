@@ -9,7 +9,7 @@ SECTIONS
 INSERT BEFORE .hash;
 SECTIONS
 {
-    . = 0x6ac000;
+    . = 0x6ae000;
     _text = .;
     .start :
     {

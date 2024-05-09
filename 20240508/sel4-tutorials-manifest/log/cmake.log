@@ -1,0 +1,37 @@
+loading initial cache file ../projects/sel4-tutorials/settings.cmake
+-- Found capdl: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/projects/capdl  
+-- Found camkes-tool: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/projects/sel4-tutorials  
+-- Found GCC with prefix arm-linux-gnueabi-
+-- The C compiler identification is GNU 9.4.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/arm-linux-gnueabi-gcc
+-- Check for working C compiler: /usr/bin/arm-linux-gnueabi-gcc
+-- Check for working C compiler: /usr/bin/arm-linux-gnueabi-gcc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found seL4: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/kernel  
+-- Found elfloader-tool: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tools/seL4/elfloader-tool  
+-- Found musllibc: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/projects/musllibc  
+-- Found util_libs: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/projects/util_libs  
+-- Found seL4_libs: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/projects/seL4_libs  
+-- /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build/kernel/gen_headers/plat/machine/devices_gen.h is out of date. Regenerating from DTB...
+-- CPIO test cpio_reproducible_flag PASSED
+-- Found sel4runtime: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/projects/sel4runtime  
+-- Performing Test compiler_arch_test
+-- Performing Test compiler_arch_test - Success
+-- libmuslc architecture: 'arm' (from KernelSel4Arch 'aarch32')
+-- Detecting cached version of: musllibc
+--   No cache path given. Set SEL4_CACHE_DIR to a path to enable caching binary artifacts.
+-- Detecting cached version of: capDL-tool
+--   No cache path given. Set SEL4_CACHE_DIR to a path to enable caching binary artifacts.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sunyvdong/sel4/20240508/sel4-tutorials-manifest/tutorial_build
+Traceback (most recent call last):
+  File "../init", line 90, in <module>
+    sys.exit(main())
+  File "../init", line 80, in main
+    if result.exit_code != 0:
+AttributeError: 'str' object has no attribute 'exit_code'

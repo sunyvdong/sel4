@@ -4,6 +4,9 @@
  * SPDX-License-Identifier: BSD-2-Clause
  */
 
+#define ZF_LOG_LEVEL ZF_LOG_VERBOSE
+#include <utils/zf_log.h>
+
 #include <autoconf.h>
 #include <capdl_loader_app/gen_config.h>
 

@@ -520,7 +520,7 @@ CDL_Model capdl_spec = {
 .size_bits = 12,
 .frame_extra = { .paddr = 0,.fill = { {.type = CDL_FrameFill_FileData,
 .dest_offset = 0,
-.dest_len = 3560,
+.dest_len = 3544,
 .file_data_type = {.filename = "client",
 .file_offset = 106496
 }},}
@@ -798,7 +798,7 @@ CDL_Model capdl_spec = {
 .size_bits = 12,
 .frame_extra = { .paddr = 0,.fill = { {.type = CDL_FrameFill_FileData,
 .dest_offset = 0,
-.dest_len = 1940,
+.dest_len = 3128,
 .file_data_type = {.filename = "timer",
 .file_offset = 114688
 }},}
@@ -1701,7 +1701,7 @@ CDL_Model capdl_spec = {
 .affinity = 0,
 .pc = 0x10164,
 .sp = 0x2e000,
-.init = (const seL4_Word[]){0, 0, 0, 0, 2, 180232, 1, 0, 0, 32, 76484, 0, 0},
+.init = (const seL4_Word[]){0, 0, 0, 0, 2, 180232, 1, 0, 0, 32, 76472, 0, 0},
 .init_sz = 13,
 .domain = 0,
 .resume = 1,
@@ -1730,7 +1730,7 @@ CDL_Model capdl_spec = {
 .affinity = 0,
 .pc = 0x10164,
 .sp = 0x31000,
-.init = (const seL4_Word[]){0, 0, 0, 0, 2, 188456, 1, 0, 0, 32, 82400, 0, 0},
+.init = (const seL4_Word[]){0, 0, 0, 0, 2, 188456, 1, 0, 0, 32, 83424, 0, 0},
 .init_sz = 13,
 .domain = 0,
 .resume = 1,

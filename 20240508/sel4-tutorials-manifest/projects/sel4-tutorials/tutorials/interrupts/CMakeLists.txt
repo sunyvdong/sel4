@@ -3,6 +3,7 @@
 #
 # SPDX-License-Identifier: BSD-2-Clause
 #
+set(CMAKE_VERBOSE_MAKEFILE on)
 include(${SEL4_TUTORIALS_DIR}/settings.cmake)
 sel4_tutorials_regenerate_tutorial(${CMAKE_CURRENT_SOURCE_DIR})
 

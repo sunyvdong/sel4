@@ -34,6 +34,6 @@ int main(int argc, char **argv) {
     assert(msg == 0);
 
     printf("timer client wakes up\n");
-
+    while (1);
     return 0;
 }

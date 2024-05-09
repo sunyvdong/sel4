@@ -64,8 +64,12 @@ int main(void) {
     
     /* TODO invoke irq_control to put the interrupt for TTC0_TIMER1_IRQ in
        cslot irq_handler (depth is seL4_WordBits) */
+    error = seL4_IRQControl_Get(irq_control, TTC0_TIMER1_IRQ, cnode, irq_handler, seL4_WordBits);
+    ZF_LOGF_IF(error, "Failed seL4_IRQControl_Get");
     
      /* TODO set ntfn as the notification for irq_handler */
+    seL4_IRQHandler_SetNotification(irq_handler, ntfn);
+    ZF_LOGF_IF(error, "Failed seL4_IRQHandler_SetNotification");
 
     /* set up the timer driver */
     int timer_err = timer_init(&timer_drv, DEFAULT_TIMER_ID, (void *) timer_vaddr);
@@ -87,11 +91,13 @@ int main(void) {
         seL4_Word badge;
         seL4_Wait(ntfn, &badge);
         timer_handle_irq(&timer_drv);
-        if (count == 0) {
-            printf("Tick\n");
+        if (count % 100 == 0) {
+            printf("Tick count:%d\n", count);
         }
         
         /* TODO ack the interrupt */
+	error = seL4_IRQHandler_Ack(irq_handler);
+	ZF_LOGF_IF(error, "interrupt Failed to ack irq");
 
         count++;
         if (count == 1000 * msg) {
